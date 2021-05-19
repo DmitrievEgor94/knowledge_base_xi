@@ -1,4 +1,4 @@
 python_syntax @
 
-.  [logger].
+.  [python_logging#search]
 .  []
